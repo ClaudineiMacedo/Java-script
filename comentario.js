@@ -1,4 +1,6 @@
-//Estou fazendo perguntas para tentar definir o perfil da pessoa!
-console.log('Ola tudo bem como vai?');
-console.log('Qual seu nome?');
-console.log('Quantos anos voçê tem?');
+// Comentario linha 1°
+console.log('linha 1°');
+/* Comentario de 
+multiplas 
+linhas */
+console.log('linha 2°');
